@@ -1,0 +1,7 @@
+{
+  "name": "CityKing Launcher",
+  "description": "A high-performance, modern Minecraft launcher interface built with React and Tailwind, rebranded as CityKing Launcher.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
